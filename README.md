@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Engineering in ENTC
 - 📫 can contact by mail- jsomu00007@gmail.com
 - ⚡ Fun fact: Honey never spoils.
-- before checking code check all paths of yours~~~~///
+- before checking code run first check all paths of yours~~~~///
 
 <!---
 sooomnath/sooomnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
